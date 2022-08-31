@@ -1,0 +1,53 @@
+body {
+    background-color: darkgrey;
+}
+
+ul {
+    margin-left: 25%;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {float: left;}
+
+li a { 
+    display: block;
+    margin-right: 225px;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+.reading {
+    position: relative;
+    margin-left: 30%;
+}
+
+.readingText {
+    position: absolute;
+    color: white;
+    bottom: 20%;
+    left: 19%;
+}
+
+.readingText2 {
+    position: absolute;
+    color: white;
+    bottom: 17%;
+    left: 23%;
+}
+
+.writing {
+    position: relative;
+    margin-left: 30%;
+}
+
+.writingText {
+    position: absolute;
+    color: black;
+    top: 20%;
+    left: 25%;
+}
+
+

@@ -1,0 +1,50 @@
+body {
+    background-color: darkgrey;
+}
+
+ul {
+    margin-left: 25%;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {float: left;}
+
+li a { 
+    display: block;
+    margin-right: 225px;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+
+.one {
+    margin-left: 5%; 
+    position: relative;
+    text-align: center;
+    
+}
+
+.hikeText {
+    position: absolute;
+    top: 20%; 
+    left: 30%;
+    color: white;
+    font-size: xx-large
+}
+
+.two {
+    margin-left: 5%;
+    position: relative;
+    text-align: center;
+}
+
+.gymText {
+    position: absolute;
+    color: white;
+    font-size: xx-large;
+    top: 70%;
+    left: 40%;
+}

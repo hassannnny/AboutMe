@@ -1,0 +1,35 @@
+body {
+    background-image: url(img/Hassan.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+   background-attachment: fixed;
+   background-color: darkgrey;
+}
+
+
+ul {
+    margin-left: 25%;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {float: left;}
+
+li a { 
+    display: block;
+    margin-right: 225px;
+    color: aliceblue;
+    font-size:larger;
+
+}
+
+
+
+div.a {
+    margin-top: 32%; 
+    margin-left: 37%;
+    color: black
+}
+

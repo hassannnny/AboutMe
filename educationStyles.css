@@ -1,0 +1,62 @@
+body {
+    background-color: darkgrey;
+}
+
+ul {
+    margin-left: 25%;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {float: left;}
+
+li a { 
+    display: block;
+    margin-right: 225px;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+.school {
+    margin-left: 5%;
+    position: relative;
+    text-align: center;
+}
+
+.schoolText {
+    position: absolute;
+    color: white;
+    top: 10%;
+    right: 40%;
+    
+}
+
+.schoolText2 {
+    position: absolute;
+    color: white;
+    top: 12%; 
+    right: 39%;
+    
+}
+
+.grad {
+    margin-left: 5%;
+    position: relative;
+    text-align: center;
+}
+
+.gradText {
+    color: white;
+    position: absolute;
+    top: 4%;
+    left: 25%;
+}
+
+.gradText2 {
+    color: white;
+    position: absolute;
+    top: 6%;
+    left: 25%;
+}

@@ -1,0 +1,55 @@
+body {
+    background-color: darkgrey;
+}
+
+ul {
+    margin-left: 25%;
+    padding-left: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {float: left;}
+
+li a { 
+    display: block;
+    margin-right: 225px;
+    color: aliceblue;
+    font-size: large;
+}
+
+.container {
+    
+}
+
+.more {
+    display: inline-block;
+    
+}
+
+.more1 {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.git {
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 5%;
+}
+
+.linkedIn {
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 25%;
+}
+
+.ig {
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 41%;
+}
